@@ -32,7 +32,9 @@ const skills = [
 ## 🎨 Animated Showcase
 
 ### **React.js**: Where creativity meets functionality
-![React Animation](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" height="100">
+</div>
 
 ---
 
