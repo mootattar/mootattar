@@ -32,38 +32,7 @@ const skills = [
 ## 🎨 Animated Showcase
 
 ### **React.js**: Where creativity meets functionality
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" height="100">
-</div>
-
-### **Tailwind CSS**: Designing with ease
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" height="100">
-</div>
-
-### Animated Progress Bars for Skills
-
-```html
-<div align="center">
-  <div style="width: 80%; margin: auto;">
-    <p>React.js</p>
-    <div style="background-color: #e0e0e0; border-radius: 8px; overflow: hidden;">
-      <div style="width: 90%; height: 20px; background-color: #61dafb; animation: grow 2s ease-in-out infinite;"></div>
-    </div>
-    <p>Tailwind CSS</p>
-    <div style="background-color: #e0e0e0; border-radius: 8px; overflow: hidden;">
-      <div style="width: 80%; height: 20px; background-color: #38bdf8; animation: grow 2s ease-in-out infinite;"></div>
-    </div>
-  </div>
-</div>
-
-<style>
-@keyframes grow {
-  0% { width: 0; }
-  100% { width: 100%; }
-}
-</style>
-```
+![React Animation](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
 
 ---
 
