@@ -35,7 +35,6 @@ const skills = [
 ![React Animation](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
 
 ### **Tailwind CSS**: Designing with ease
-![Tailwind CSS Animation](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg)
 
 ---
 
