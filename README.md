@@ -19,11 +19,13 @@ Here are some of the technologies I work with:
 
 ```javascript
 const skills = [
+  "HTML & CSS"
+  "JavaScript & TypeScript",
   "React.js",
+  "Redux Toolkit",
+  "Sass",
   "Material-UI (MUI)",
   "Tailwind CSS",
-  "JavaScript",
-  "HTML & CSS"
 ];
 ```
 
