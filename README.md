@@ -30,9 +30,6 @@ const skills = [
 ```
 
 ---
-
-## 🎨 Animated Showcase
-
 ### **React.js**: Where creativity meets functionality
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" height="100">
